@@ -1,4 +1,4 @@
-# Techsakshyam-Project
+# VEHICLE PARKING MANAGEMENT SYSTEM
 
 Welcome to the official repository for the Vehicle Parking Management System developed as part of the "Techsakshyam" program. Techsakshyam is an initiative aimed at empowering individuals with technological skills and fostering innovation in solving real-world problems.
 
